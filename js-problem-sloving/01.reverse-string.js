@@ -21,9 +21,4 @@ function reverseString(s){
     return output
 }
 
-
-
-  
-
-
 console.log(reverseString("hello"));
